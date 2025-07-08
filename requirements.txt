@@ -1,0 +1,4 @@
+flask
+opencv-python-headless
+torch
+transformers==4.39.3
